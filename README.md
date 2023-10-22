@@ -1,2 +1,2 @@
-# Spotify_Stats_2017-19
-This project visualizes Spotify data over time and by region.
+# Spotify-Stats-2017-19
+This project visualizes Spotify data over time and by region. Downloaded data from Tableau ([link](https://www.tableau.com/blog/how-visualize-spotify-music-trends-tableau)). Imported the CSV file into Tableau. Analyzed most popular tracks and artists from January 1, 2017 - June 30, 2019. In additon, explored the lisenting habits across different countries as well as the streaming trend over time. Lastly created a comprehensive dashboard in Tableau. 
